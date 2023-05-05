@@ -2901,7 +2901,6 @@ host-suffix,tvappstore.net,proxy
 host-suffix,xjp.cc,proxy
 host-suffix,falundafa-florida.org,proxy
 host-suffix,esposasymaridos.com,proxy
-host-suffix,payload:,proxy
 host-suffix,grangorz.org,proxy
 host-suffix,legsex.com,proxy
 host-suffix,talkboxapp.com,proxy

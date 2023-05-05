@@ -57574,7 +57574,6 @@ host-suffix,sdchina.com,direct
 host-suffix,appletuan.com,direct
 host-suffix,949678.com,direct
 host-suffix,bdimg.com,direct
-host-suffix,payload:,direct
 host-suffix,gtcedu.com,direct
 host-suffix,hualady.com,direct
 host-suffix,xiangshi.cc,direct

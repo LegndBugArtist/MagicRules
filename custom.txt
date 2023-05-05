@@ -1,0 +1,61 @@
+Host-suffix, bing.com, proxy
+host-keyword, epicgames, proxy
+host-keyword, linkedin, proxy
+host, emuci.top, direct
+host-suffix, emuci.xyz, direct
+host-keyword, shazam, proxy
+host-suffix, emuci.top, direct
+host-suffix, pvp.net, direct
+host, spdb.com.cn, direct
+host-suffix, brave.com, proxy
+host-suffix, indeed.com, proxy
+host-suffix, pki.goog, proxy
+host-suffix, spdb.com.cn, direct
+host-suffix, xvideos.com, proxy
+host-suffix, phncdn.com, proxy
+host-keyword, paypal, proxy
+host-keyword, reddit, proxy
+host-keyword, porn, proxy
+host-suffix, jpush.cn, direct
+host-suffix, mob.com, direct
+host-suffix, t.me, proxy
+host-suffix, t.co, proxy
+host,injections.adguard.org,direct
+host,local.adguard.org,direct
+host-suffix, jd.com, direct
+host-keyword, 360hu, direct
+host-suffix, jsdelivr.net, proxy
+
+host,safebrowsing.urlsec.qq.com,direct
+host,safebrowsing.googleapis.com,direct
+user-agent,com.apple.appstored*,direct
+user-agent,AppStore*,direct
+host-suffix,mzstatic.com,direct
+host-suffix,icloud.com,direct
+host-suffix,icloud-content.com,direct
+user-agent,cloudd*,direct
+host-suffix,me.com,direct
+host-suffix,aaplimg.com,direct
+host-suffix,cdn20.com,direct
+host-suffix,cdn-apple.com,direct
+host-suffix,akadns.net,direct
+host-suffix,akamaiedge.net,direct
+host-suffix,edgekey.net,direct
+host-suffix,mwcloudcdn.com,direct
+host-suffix,mwcname.com,direct
+host-suffix,apple.com,direct
+host-suffix,apple-cloudkit.com,direct
+host-suffix,apple-mapkit.com,direct
+host,mediaservices.cdn-apple.com,direct
+host-suffix,apple-dns.net,direct
+host,testflight.apple.com,direct
+host,sandbox.itunes.apple.com,direct
+host-suffix,apps.apple.com,direct
+
+host,developer.apple.com, direct
+host-suffix,digicert.com, direct
+host-suffix,blobstore.apple.com, direct
+host,cvws.icloud-content.com, direct
+host-suffix,itunes.apple.com, direct
+host-suffix,videos.apple.com, direct
+host-suffix,tv.apple.com, direct

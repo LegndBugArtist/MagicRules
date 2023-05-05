@@ -11,7 +11,7 @@ func main() async {
     let urls = [URL(string: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt")!,URL(string: "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt")!]
     urls.forEach { url in
         Task {
-            let data = try await Network.fetchString(from: url).replacingOccurrences(of: "  - '", with: "").replacingOccurrences(of: "+.", with: "").replacingOccurrences(of: "'", with: "")
+            let data = try await Network.fetchString(from: url).replacingOccurrences(of: "payload:", with: "").replacingOccurrences(of: "  - '", with: "").replacingOccurrences(of: "+.", with: "").replacingOccurrences(of: "'", with: "")
             let lines = data.split{$0.isNewline}
             let uniqueArray = Array(Set(lines.map { $0.components(separatedBy: ".").suffix(2).joined(separator: ".") }))
             let filteredArray = uniqueArray.filter { !($0.contains(".cn") || $0.contains("-cn")) }

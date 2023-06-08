@@ -1,0 +1,1 @@
+host-suffix,netflix.com,proxy

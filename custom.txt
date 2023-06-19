@@ -1,5 +1,5 @@
-Host-keyword, google, proxy
-Host-suffix, bing.com, proxy
+host-keyword, google, proxy
+host-suffix, bing.com, proxy
 host-keyword, epicgames, proxy
 host-keyword, linkedin, proxy
 host, emuci.top, direct
@@ -26,6 +26,32 @@ host,local.adguard.org,direct
 host-suffix, jd.com, direct
 host-keyword, 360hu, direct
 host-suffix, jsdelivr.net, proxy
+host-keyword, 360buy, direct
+host-keyword, douyin, direct
+host-keyword, bytedance, direct
+host-suffix, amemv.com, direct
+host-suffix, bytemastatic.com, direct
+host-suffix, snssdk.com, direct
+host-suffix, zijieapi, direct
+host-suffix, xycdn.com, direct
+host-suffix, jdpay.com, direct
+host-suffix, autonavi.com, direct
+host-suffix, xiaojukeji.com, direct
+host-suffix, amap.com, direct
+host-suffix, beantechyun.com, direct
+host-suffix, ingeek.com, direct
+host-suffix, tencent.com, direct
+host-suffix, qq.com, direct
+host-keyword, wechat, direct
+host-suffix, xhscdn.com, direct
+host-suffix, xiaohongshu.com, direct
+host-suffix, baidu.com, direct
+host-suffix, bcebos.com, direct
+host-suffix, bdimg.com, direct
+host-keyword, ctrip, direct
+host-suffix, nuomi.com, direct
+
+
 
 host,safebrowsing.urlsec.qq.com,direct
 host,safebrowsing.googleapis.com,direct

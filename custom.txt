@@ -1,3 +1,5 @@
+host-keyword, alipay, direct
+host-keyword, alicdn, direct
 host-keyword, google, proxy
 host-suffix, bing.com, proxy
 host-keyword, epicgames, proxy

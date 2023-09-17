@@ -129,5 +129,4 @@ host-suffix,2.0.192.in-addr.arpa,direct
 host-suffix,255.255.255.255.in-addr.arpa,direct 
 host-suffix,8.b.d.0.1.0.0.2.ip6.arpa,direct 
 host-suffix,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,direct 
-host-suffix,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,direct 
-,direct 
+host-suffix,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,direct

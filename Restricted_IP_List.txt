@@ -15,7 +15,4 @@ host-suffix,nflxvideo.net,proxy
 host-suffix,us-west-2.amazonaws.com,proxy
 host-keyword,dualstack.apiproxy-device-prod-nlb-,proxy
 host-keyword,dualstack.ichnaea-web-,proxy
-domain,netflix.com.edgesuite.net,proxy 
-
-host-suffix,ai.com,proxy
-host-suffix,openai.com,proxy
+domain,netflix.com.edgesuite.net,proxy

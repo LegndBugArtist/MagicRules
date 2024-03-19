@@ -90,3 +90,5 @@ host,cvws.icloud-content.com, direct
 host-suffix,itunes.apple.com, direct
 host-suffix,videos.apple.com, direct
 host-suffix,tv.apple.com, direct
+
+host-suffix,bbaepro.com, proxy

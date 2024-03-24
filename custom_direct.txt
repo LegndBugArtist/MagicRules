@@ -1,35 +1,20 @@
+host-suffix, cn, direct
 host-keyword, alipay, direct
 host-keyword, alicdn, direct
 host-keyword, taobao, direct
 host-keyword, tmail, direct
-host-keyword, google, proxy
-host-suffix, bing.com, proxy
-host-keyword, epicgames, proxy
-host-keyword, linkedin, proxy
 host, emuci.top, direct
 host-suffix, emuci.xyz, direct
-host-keyword, shazam, proxy
 host-suffix, emuci.top, direct
 host-suffix, pvp.net, direct
 host, spdb.com.cn, direct
-host-suffix, brave.com, proxy
-host-suffix, indeed.com, proxy
-host-suffix, pki.goog, proxy
 host-suffix, spdb.com.cn, direct
-host-suffix, xvideos.com, proxy
-host-suffix, phncdn.com, proxy
-host-keyword, paypal, proxy
-host-keyword, reddit, proxy
-host-keyword, porn, proxy
 host-suffix, jpush.cn, direct
 host-suffix, mob.com, direct
-host-suffix, t.me, proxy
-host-suffix, t.co, proxy
 host,injections.adguard.org,direct
 host,local.adguard.org,direct
 host-suffix, jd.com, direct
 host-keyword, 360hu, direct
-host-suffix, jsdelivr.net, proxy
 host-keyword, 360buy, direct
 host-keyword, douyin, direct
 host-keyword, bytedance, direct
@@ -54,8 +39,6 @@ host-suffix, bcebos.com, direct
 host-suffix, bdimg.com, direct
 host-keyword, ctrip, direct
 host-suffix, nuomi.com, direct
-
-
 
 host,safebrowsing.urlsec.qq.com,direct
 host,safebrowsing.googleapis.com,direct
@@ -90,5 +73,3 @@ host,cvws.icloud-content.com, direct
 host-suffix,itunes.apple.com, direct
 host-suffix,videos.apple.com, direct
 host-suffix,tv.apple.com, direct
-
-host-suffix,bbaepro.com, proxy

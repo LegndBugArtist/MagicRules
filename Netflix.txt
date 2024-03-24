@@ -12,7 +12,4 @@ host-suffix,nflximg.net,proxy
 host-suffix,nflxsearch.net,proxy
 host-suffix,nflxso.net,proxy
 host-suffix,nflxvideo.net,proxy
-host-suffix,us-west-2.amazonaws.com,proxy
-host-keyword,dualstack.apiproxy-device-prod-nlb-,proxy
-host-keyword,dualstack.ichnaea-web-,proxy
 domain,netflix.com.edgesuite.net,proxy

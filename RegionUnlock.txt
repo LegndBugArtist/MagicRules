@@ -1,3 +1,6 @@
 host-keyword, google, proxy
+host-suffix, googleapis.com, proxy
+host-suffix, googleusercontent.com,proxy
+host-suffix,goog,proxy 
 host-suffix, claude.ai, proxy
 host-suffix, openai.com, proxy

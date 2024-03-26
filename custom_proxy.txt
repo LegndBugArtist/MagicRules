@@ -4,6 +4,7 @@ host-keyword, shazam, proxy
 host-suffix, brave.com, proxy
 host-suffix, indeed.com, proxy
 host-suffix, pki.goog, proxy
+host-suffix, googleapis.com, proxy
 host-suffix, xvideos.com, proxy
 host-suffix, phncdn.com, proxy
 host-keyword, paypal, proxy

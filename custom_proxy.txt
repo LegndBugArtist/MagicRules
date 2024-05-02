@@ -15,3 +15,4 @@ host-suffix, t.co, proxy
 host-suffix, jsdelivr.net, proxy
 host-suffix, bbaepro.com, proxy
 host-suffix, bbae.com, proxy
+host-keyword, vivaldi, proxy
